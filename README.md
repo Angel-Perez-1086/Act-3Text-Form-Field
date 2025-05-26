@@ -2,7 +2,8 @@ ingreso de datos
 ![alt text](image-1.png)
 Resultado
 ![alt text](image.png)
-
+tabla 
+![alt text](20250526_110929.jpg)
 A new Flutter project.
 
 ## Getting Started
